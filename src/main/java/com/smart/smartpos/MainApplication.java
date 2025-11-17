@@ -28,3 +28,6 @@ public class MainApplication extends Application {
         stage.show();
     }
 }
+
+//mvn clean package
+//java -jar nombre_del_archivo.jar
